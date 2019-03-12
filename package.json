@@ -1,0 +1,26 @@
+{
+  "name": "test-aws",
+  "version": "1.0.0",
+  "description": "Test AWS Lambda capability",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3insteincomplex/test-aws.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3insteincomplex/test-aws/issues"
+  },
+  "homepage": "https://github.com/3insteincomplex/test-aws#readme",
+  "dependencies": {
+    "aws-cli": "0.0.2",
+    "node": "^11.11.0"
+  }
+}
